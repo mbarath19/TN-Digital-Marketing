@@ -1506,16 +1506,6 @@ h6 {
   
 }
 
-#hero:before {
-  content: "";
-  background: rgba(87, 86, 86, 0);
-  position: fixed;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-}
-
 #hero .container {
   position: relative;
   padding-top: 74px;

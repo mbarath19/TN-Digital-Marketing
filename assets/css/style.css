@@ -1914,12 +1914,14 @@ section {
   border-radius: 3px;
 }
 .foot-name{
-  text-align: center;
-  position: relative;
-  bottom: 0%;
-  padding-left: 20px;
-  padding-right: 20px;
-  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position:absolute;
+  bottom:0%;
+  right:50%;
+  left:50%;
+  color:white;
 }
 @media  (min-width:1200px){
   .portfolio-wrap .foot-name h5{

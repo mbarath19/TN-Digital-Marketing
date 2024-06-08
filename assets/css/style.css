@@ -1549,6 +1549,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
+  background: url(/assets/img/homescreen.jpg);
   width: 100%;
   min-height: 100vh;
   background-size: cover;

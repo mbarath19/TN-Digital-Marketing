@@ -1353,7 +1353,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 600;
-  color: #fff;
+  color: #9b8989;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -1549,7 +1549,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  background: url(/assets/img/homescrn.jpeg);
+  background: url(/assets/img/TAMIL_DM.png);
   width: 100%;
   min-height: 100vh;
   background-size: cover;
@@ -1577,7 +1577,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 64px;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.76);
   font-family: "Poppins", sans-serif;
 }
 
@@ -1586,7 +1586,7 @@ h6 {
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(0, 0, 0, 0.76);
   margin: 10px 0 0 0;
   font-size: 24px;
 }
